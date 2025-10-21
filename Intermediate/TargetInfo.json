@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "awer",
+			"Path": "..\\Source\\awer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "awerEditor",
+			"Path": "..\\Source\\awerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
